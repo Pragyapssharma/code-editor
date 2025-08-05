@@ -1,8 +1,5 @@
 # 🖥️ Python Code Editor with Terminal Output
-A lightweight, GUI-based code editor built using Tkinter that allows users to write and execute Python code directly within the application. It features a scrollable text editor and an integrated terminal to display output and errors.
- 
-
-This project is a simple **code editor and runner** built using Python and Tkinter. It allows users to write and execute Python code directly within the interface, displaying the output (or errors) in an embedded terminal-like area.
+A simple yet powerful code editor and runner built with Python and Tkinter. It lets users write and execute Python code directly within a clean GUI, featuring a scrollable text editor and an embedded terminal to display output and errors.
 
 ---
 
