@@ -26,7 +26,7 @@ This project is a simple **code editor and runner** built using Python and Tkint
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pragyapssharma/code-editor.git
+git clone https://github.com/Pragyapssharma/code-editor.git
 cd python-code-editor
 ```
 
